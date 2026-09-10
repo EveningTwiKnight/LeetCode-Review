@@ -1,2 +1,44 @@
-# leetcode-review
-A personal LeetCode mistake log — recording wrong attempts, correct approaches, and key takeaways.
+# LeetCode错题集
+
+
+
+## About
+
+这里主要整理本人在**LeetCode**上做题时遇到的题目。记录内容主要包括本人思路、题目最优解、以及为何思路不可行或者个人方案与正解的区别。
+
+这个仓库仍会持续更新
+
+
+
+## Standard Format
+
+本人在记录的文档中将遵从如下格式
+
+1\. **题目描述**（若原文描述难以理解，会做调整）
+
+2\. **我的思路**（一开始是怎么想的）
+
+3\. **答案思路**（最优解的思路）
+
+4\. **正解代码**（贴最终 AC 代码、如果我已经AC，也附上我的代码）
+
+5\. **复杂度分析**（对比我的思路和正解）
+
+6\. **总结**（下次遇到类似题目怎么想，关键 takeaways）
+
+
+
+## Index
+
+Coming soon...
+
+
+
+## Progress
+
+Total :
+
+Easy :  |Medium :  |Hard :
+
+Last Update :2026/9/10
+
