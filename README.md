@@ -30,15 +30,15 @@
 
 ## Index
 
-Coming soon...
+1.两数之和	(Easy)
 
-
+2.二维平面等距三元组计数	(Medium)
 
 ## Progress
 
-Total :
+Total : 2
 
-Easy :  |Medium :  |Hard :
+Easy :  1|Medium :  1|Hard : 0
 
-Last Update :2026/9/10
+Last Update :2026/9/17
 
